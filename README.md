@@ -26,4 +26,4 @@ This website is available on: GitHub.io
 Rawan Fatima
 
 ##  5. Questions
-If you have any questions, contact me at fatimarawan15@gmail.com or refer to my github repository: https://github.com/waveess/the-tech-blog
+If you have any questions, contact me at fatimarawan15@gmail.com or refer to my github repository: https://github.com/waveess/portfolio
