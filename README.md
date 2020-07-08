@@ -17,7 +17,10 @@ This website is available on: GitHub.io
 
 ## 3. Website Preview
 
-Coming Soon!
+<img width="1440" alt="Screen Shot 2020-07-07 at 5 59 58 PM" src="https://user-images.githubusercontent.com/61710672/86861391-dd07ae80-c07b-11ea-85a9-4ec5549ec411.png">
+<img width="1439" alt="Screen Shot 2020-07-07 at 6 00 39 PM" src="https://user-images.githubusercontent.com/61710672/86861393-dda04500-c07b-11ea-95cc-dd6869ea0223.png">
+<img width="1440" alt="Screen Shot 2020-07-07 at 6 00 57 PM" src="https://user-images.githubusercontent.com/61710672/86861395-ded17200-c07b-11ea-9514-45086f906bf9.png">
+
 
 ## 4. Contributing
 Rawan Fatima
