@@ -13,7 +13,7 @@
 
 ##  2. Deployment
 
-This website is available on: GitHub.io
+This website is available on: https://waveess.github.io/portfolio/
 
 ## 3. Website Preview
 
