@@ -57,8 +57,8 @@
   .hero-img {
     display: flex;
     flex-wrap: wrap;
-    background-image: url("../images/img-5.jpg");
-    padding: 200px 300px;
+    background-image: url("../images/img-8.jpg");
+    padding: 300px 300px;
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
